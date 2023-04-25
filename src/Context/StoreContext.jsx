@@ -27,6 +27,7 @@ const StoreProvider = (props) => {
 			}}
 		>
 			{props.children}
+			
 		</StoreContext.Provider>
 	);
 };

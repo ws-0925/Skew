@@ -133,9 +133,6 @@ const Footer = () => {
 						<Typography fontSize="16px" fontWeight={400}>
 							Pairing
 						</Typography>
-						<Typography fontSize="16px" fontWeight={400}>
-							Refferrals
-						</Typography>
 					</Grid>
 				</Grid>
 			</Box>
